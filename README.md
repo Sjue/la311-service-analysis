@@ -49,7 +49,11 @@ The Tableau dashboard includes:
 
 * **Single streetlight issues, while relatively low in volume (~4,000 requests), have very high average response times (~85 days)**, suggesting potential inefficiencies or resource constraints in that service area.
 
-* **Service request volume shows consistent activity over time**, highlighting ongoing demand for city services.
+* **Service request volume shows consistent activity over time**, highlighting ongoing demand for city services
 
-#### For full interactive dashboard please go here: 
+## Data
+Due to the file size limitations, I have provided a sample of the data I used. For the full dataset please go to:
+https://data.lacity.org/City-Infrastructure-Service-Requests/MyLA311-Service-Request-Data-2025/h73f-gn57/about_data
+
+## For full interactive dashboard please go here: 
 https://public.tableau.com/app/profile/sydney.jue/viz/311_service_dash/LA311ServiceRequestAnalysis
